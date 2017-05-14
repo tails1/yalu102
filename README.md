@@ -1,5 +1,7 @@
 # yalu102
 
+this my fork of original yalu what is special about it is that i addes yalu signed ipa for anyone to reverse engineer it and check by himself that it's clean the ipa (signed) that i posted here is the same one that was previously hosted on: pgyer.com/yalujb and now on: yalu.ayouch.com
+
 ![Yalu logo](https://github.com/kpwn/yalu102/blob/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)
 
 A "work in progress" iOS jailbreak for 64-bit devices created by [qwertyoruiopz](https://twitter.com/qwertyoruiopz) and [marcograssi](marcograss).
